@@ -1,0 +1,130 @@
+@media screen and (max-width: 1068px) {
+    .nav-social {
+        display: none;
+    }
+    #main-logo {
+        width: 65px;
+        height: 65px;
+        margin-left: 8%;
+    }
+    .main-title {
+        margin-left: 8%;
+    }
+    .about-title {
+        margin-left: 20%;
+    }
+    .about-subtitle {
+        margin-left: 12%;
+        text-align: center;
+    }
+    .service-title {
+        margin-left: 18%;
+    }
+    .service-subtitle {
+        margin-left: 12%;
+        text-align: center;
+    }
+    .recurit-section {
+        width: 25%;
+    }
+    .recurit {
+        margin-left: 40%;
+    }
+    .description {
+        text-align: justify;
+    }
+    .recurit-title {
+        margin-left: 0%;
+    }
+    .contact-text {
+        margin-left: 5%;
+    }
+    #contact-btn {
+        margin-left: 40%;
+    }
+    .team-title {
+        margin-left: 35%;
+    }
+    .team-subtitle {
+        margin-left: 5%;
+        text-align: center;
+    }
+    .memember1 {
+        margin-left: 18%;
+    }
+    .memember1 h1,
+    .memember1 p,
+    .memember1 social2 {
+        margin-left: 38%;
+    }
+}
+
+@media screen and (max-width: 852px) {
+    #main-logo {
+        width: 65px;
+        height: 65px;
+        margin-left: 8%;
+    }
+    .main-title {
+        font-size: 28px;
+        margin-left: 3%;
+    }
+    .sub-title {
+        font-size: 16px;
+        margin-left: 8%;
+    }
+    .about-title {
+        margin-left: 10%;
+    }
+    .about-subtitle {
+        margin-left: 10%;
+        text-align: center;
+    }
+    .service-title {
+        margin-left: 7%;
+    }
+    .service-subtitle {
+        margin-left: 10%;
+    }
+    .recurit-title {
+        margin-left: 10%;
+    }
+    .recurit-section {
+        width: 50%;
+    }
+    .contact-text {
+        margin-left: 5%;
+    }
+    #contact-btn {
+        margin-left: 40%;
+    }
+    .memember1 {
+        margin-left: 20%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .service-title {
+        text-align: center;
+    }
+    .contact-text {
+        font-size: 30px;
+        margin-left: 8%;
+    }
+    #contact-btn {
+        margin-left: 40%;
+    }
+}
+
+@media screen and (max-width: 490px) {
+    .main-title {
+        font-size: 24px;
+        margin-left: 8%;
+    }
+    .recurit-section {
+        width: 100%;
+    }
+    .memember1 {
+        float: left;
+    }
+}
